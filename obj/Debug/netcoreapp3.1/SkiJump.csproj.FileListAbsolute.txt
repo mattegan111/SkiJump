@@ -1,0 +1,13 @@
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\SkiJump.exe
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\SkiJump.deps.json
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\SkiJump.runtimeconfig.json
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\SkiJump.runtimeconfig.dev.json
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\SkiJump.dll
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\SkiJump.pdb
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.csprojAssemblyReference.cache
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.AssemblyInfoInputs.cache
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.AssemblyInfo.cs
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.csproj.CoreCompileInputs.cache
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.dll
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.pdb
+C:\Users\Kerie\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\SkiJump.genruntimeconfig.cache
